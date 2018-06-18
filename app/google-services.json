@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "263268420260",
+    "firebase_url": "https://moviedatabase-c80f2.firebaseio.com",
+    "project_id": "moviedatabase-c80f2",
+    "storage_bucket": "moviedatabase-c80f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263268420260:android:0317680811540838",
+        "android_client_info": {
+          "package_name": "com.brillicaservices.gurjas.firebasemoviessample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263268420260-k1f67gaj1rduhgd7m4cpl713et1ih0eh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brillicaservices.gurjas.firebasemoviessample",
+            "certificate_hash": "e741bd5162c8b975a4785e768153e88ec620e0aa"
+          }
+        },
+        {
+          "client_id": "263268420260-ng07b3fu9hkadcpe28ecqm2ab34q8e4d.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "263268420260-ng07b3fu9hkadcpe28ecqm2ab34q8e4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpRwF-DSVZbMht46TVpr4uWxzoSGlDsvM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263268420260-ng07b3fu9hkadcpe28ecqm2ab34q8e4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
